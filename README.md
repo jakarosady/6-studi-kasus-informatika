@@ -105,17 +105,3 @@ Buka notebook pada folder studi kasus yang diinginkan, lalu pilih **Run All**. S
     ├── README.md
     └── studi_kasus_06_remote_sensing.ipynb
 ```
-
-## Menambahkan hasil eksperimen
-Jika mengubah data atau parameter:
-1. Jalankan seluruh notebook dari awal.
-2. Pastikan hasil sesuai dengan kode dan interpretasi.
-3. Tambahkan konteks data, versi Python, dan batasan pada README.
-4. Jangan mengunggah data rahasia, kredensial, atau data pribadi.
-5. Periksa diff Git sebelum melakukan commit.
-
-## Upload ke GitHub
-Ikuti [panduan upload GitHub](docs/PANDUAN_UPLOAD_GITHUB.md).
-
-## Lisensi dan atribusi
-Kode dalam paket ini disediakan di bawah lisensi MIT. Materi seminar dan transkrip tetap milik pemateri/pemegang hak masing-masing; paket ini merangkum tema untuk latihan dan tidak mendistribusikan ulang transkrip lengkap. Cantumkan atribusi yang sesuai saat menggunakan atau mengembangkan paket.
